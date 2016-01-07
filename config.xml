@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget 
+    xmlns="http://www.w3.org/ns/widgets" 
+    xmlns:gap="http://phonegap.com/ns/1.0"
+    xmlns:cdv="http://cordova.apache.org/ns/1.0"
+    id="de.mobc.mobc-new" 
+    version="1.0.0"
+    >
+    
+    <description>Ionic Project mobC</description>
+    <author email="dev@mobc.de" href="http://www.mobc.de">
+      2016 - mobC - Peter Busch
+    </author>
+    
+    <icon src="icon.png" />
+    
+    <feature name="http://api.phonegap.com/1.0/device" />
+    
+    <platform name="android">
+    </platform> 
+     
+</widget>
