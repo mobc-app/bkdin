@@ -10,7 +10,7 @@
 		},
 		"app_datas_js": {
 			"filename": "app/datas.js",
-			"version": "f96d5366c2deeec4657b927c023ddb206ba2de6290de71ef40e713439fc8835e"
+			"version": "8ceb710b6e41917705dff7c0abe544fd6f79a07190424e4d42693454d2fa0d68"
 		},
 		"app_directives_js": {
 			"filename": "app/directives.js",
@@ -48,22 +48,6 @@
 			"filename": "css/tabSlideBox.css",
 			"version": "a154c9da3e8f996cbf893e19ff67a49fc7fb0afdf3a3856c8b5fd08632fcfd3d"
 		},
-		"img_bkdin_logo_png": {
-			"filename": "img/BKDIN_logo.png",
-			"version": "6a51881e95c2945e95bf6670e9f755d5e9dac7ed11cefe6455c93ae0fc68c06e"
-		},
-		"img_bkdin_logo_big_png": {
-			"filename": "img/BKDIN_logo_big.png",
-			"version": "68de55eac81b566fc9c9e0d7e2e391904ca94fab33b11b9f2033cf0b4ec613ac"
-		},
-		"img_logo_png": {
-			"filename": "img/logo.png",
-			"version": "aafedca7aa1e3259c0e18d11c0013aaf506b3f307c8d580b34b14b6a234c8325"
-		},
-		"img_logo2_png": {
-			"filename": "img/logo2.png",
-			"version": "80782c77fd9ec2560a72edbeba9bc44873294c8b78de95666836a01eaac2087c"
-		},
 		"fonts_ionicons_eot": {
 			"filename": "fonts/ionicons.eot",
 			"version": "b4fb94d228c4e361d4023ded06e936faef1dd47803078dc09c6f817c10200f94"
@@ -79,6 +63,22 @@
 		"fonts_ionicons_woff": {
 			"filename": "fonts/ionicons.woff",
 			"version": "4beadc9808f7c1c96c3ca7276372fb4b351891adc1261a989f2553147505eec8"
+		},
+		"img_bkdin_logo_png": {
+			"filename": "img/BKDIN_logo.png",
+			"version": "6a51881e95c2945e95bf6670e9f755d5e9dac7ed11cefe6455c93ae0fc68c06e"
+		},
+		"img_bkdin_logo_big_png": {
+			"filename": "img/BKDIN_logo_big.png",
+			"version": "68de55eac81b566fc9c9e0d7e2e391904ca94fab33b11b9f2033cf0b4ec613ac"
+		},
+		"img_logo_png": {
+			"filename": "img/logo.png",
+			"version": "aafedca7aa1e3259c0e18d11c0013aaf506b3f307c8d580b34b14b6a234c8325"
+		},
+		"img_logo2_png": {
+			"filename": "img/logo2.png",
+			"version": "80782c77fd9ec2560a72edbeba9bc44873294c8b78de95666836a01eaac2087c"
 		},
 		"lib_angular-addons_js": {
 			"filename": "lib/angular-addons.js",
@@ -149,5 +149,5 @@
 		"app/views.js",
 		"update/app-loader.js"
 	],
-	"version": "1.0.5"
+	"version": "1.0.6"
 }
