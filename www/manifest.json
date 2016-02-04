@@ -10,7 +10,7 @@
 		},
 		"app_datas_js": {
 			"filename": "app/datas.js",
-			"version": "e9f3c8a5ea4f48cb3b2b458581f69bf6566e624aeba4693210fc31b803364212"
+			"version": "f96d5366c2deeec4657b927c023ddb206ba2de6290de71ef40e713439fc8835e"
 		},
 		"app_directives_js": {
 			"filename": "app/directives.js",
@@ -48,22 +48,6 @@
 			"filename": "css/tabSlideBox.css",
 			"version": "a154c9da3e8f996cbf893e19ff67a49fc7fb0afdf3a3856c8b5fd08632fcfd3d"
 		},
-		"fonts_ionicons_eot": {
-			"filename": "fonts/ionicons.eot",
-			"version": "b4fb94d228c4e361d4023ded06e936faef1dd47803078dc09c6f817c10200f94"
-		},
-		"fonts_ionicons_svg": {
-			"filename": "fonts/ionicons.svg",
-			"version": "a627d9068c1235d9b3c95c405eb6ecb64a290b159cf5e926c0d96d89b24cd5fc"
-		},
-		"fonts_ionicons_ttf": {
-			"filename": "fonts/ionicons.ttf",
-			"version": "0f0a877cb57958bb6f34bac7695aca9f90f62d9a89e9dc6c16bd96e0aca8c987"
-		},
-		"fonts_ionicons_woff": {
-			"filename": "fonts/ionicons.woff",
-			"version": "4beadc9808f7c1c96c3ca7276372fb4b351891adc1261a989f2553147505eec8"
-		},
 		"img_bkdin_logo_png": {
 			"filename": "img/BKDIN_logo.png",
 			"version": "6a51881e95c2945e95bf6670e9f755d5e9dac7ed11cefe6455c93ae0fc68c06e"
@@ -79,6 +63,22 @@
 		"img_logo2_png": {
 			"filename": "img/logo2.png",
 			"version": "80782c77fd9ec2560a72edbeba9bc44873294c8b78de95666836a01eaac2087c"
+		},
+		"fonts_ionicons_eot": {
+			"filename": "fonts/ionicons.eot",
+			"version": "b4fb94d228c4e361d4023ded06e936faef1dd47803078dc09c6f817c10200f94"
+		},
+		"fonts_ionicons_svg": {
+			"filename": "fonts/ionicons.svg",
+			"version": "a627d9068c1235d9b3c95c405eb6ecb64a290b159cf5e926c0d96d89b24cd5fc"
+		},
+		"fonts_ionicons_ttf": {
+			"filename": "fonts/ionicons.ttf",
+			"version": "0f0a877cb57958bb6f34bac7695aca9f90f62d9a89e9dc6c16bd96e0aca8c987"
+		},
+		"fonts_ionicons_woff": {
+			"filename": "fonts/ionicons.woff",
+			"version": "4beadc9808f7c1c96c3ca7276372fb4b351891adc1261a989f2553147505eec8"
 		},
 		"lib_angular-addons_js": {
 			"filename": "lib/angular-addons.js",
@@ -149,5 +149,5 @@
 		"app/views.js",
 		"update/app-loader.js"
 	],
-	"version": "1.0.4"
+	"version": "1.0.5"
 }
